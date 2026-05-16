@@ -265,13 +265,3 @@ This project demonstrates how DevOps engineers automate infrastructure using Ter
 
 It also highlights the importance of Infrastructure as Code (IaC) in modern cloud engineering and DevOps practices.
 
----
-
-## Conclusion
-
-Through this project, I gained hands-on experience provisioning cloud infrastructure with Terraform on AWS.
-
-This beginner-friendly project demonstrates the complete Terraform workflow from initialization to deployment and infrastructure cleanup.
-
----
-
