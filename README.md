@@ -8,19 +8,9 @@ The goal of this project is to teach beginners how to provision Infrastructure a
 
 ---
 
-## Architecture Diagram
+## Project Screenshot
 
-<p align="center">
-  <img src="images/architecture.jpeg" alt="Architecture Diagram" width="500">
-</p>
-
----
-
-## EC2 Instance Created
-
-<p align="center">
-  <img src="images/ec2-output.jpeg" alt="EC2 Instance Output" width="600">
-</p>
+![Terraform AWS EC2 Project](image.jpeg)
 
 ---
 
@@ -28,7 +18,7 @@ The goal of this project is to teach beginners how to provision Infrastructure a
 
 I provisioned an AWS EC2 instance using Terraform.
 
-The instance was created with the following Terraform configuration:
+The infrastructure was created using the following Terraform configuration:
 
 ```hcl
 resource "aws_instance" "my_server" {
