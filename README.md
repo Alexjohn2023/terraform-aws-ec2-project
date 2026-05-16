@@ -8,9 +8,11 @@ The goal of this project is to teach beginners how to provision Infrastructure a
 
 ---
 
-## Project Screenshot
+## Project Screenshots
 
-![Terraform AWS EC2 Project](image.jpeg)
+![Terraform Project](image.jpeg)
+
+![EC2 Instance Running](image1.jpeg)
 
 ---
 
