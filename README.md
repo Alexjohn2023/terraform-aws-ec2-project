@@ -10,13 +10,17 @@ The goal of this project is to teach beginners how to provision Infrastructure a
 
 ## Architecture Diagram
 
-![Project Architecture](image.jpeg)
+<p align="center">
+  <img src="images/architecture.jpeg" alt="Architecture Diagram" width="500">
+</p>
 
 ---
 
 ## EC2 Instance Created
 
-![EC2 Screenshot](image1.jpeg)
+<p align="center">
+  <img src="images/ec2-output.jpeg" alt="EC2 Instance Output" width="600">
+</p>
 
 ---
 
